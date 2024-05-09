@@ -1,0 +1,9 @@
+a{
+    text-decoration: none;
+    background-color: chartreuse;
+    color:  white;
+    border: 3px solid red;
+}
+a:hover,:visited, :active{
+    background-color: black;
+}
